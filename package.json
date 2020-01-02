@@ -1,0 +1,25 @@
+{
+  "name": "pentland_hills",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Slav666/Pentald_hills.git"
+  },
+  "author": "Slawomir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Slav666/Pentald_hills/issues"
+  },
+  "homepage": "https://github.com/Slav666/Pentald_hills#readme",
+  "devDependencies": {
+    "node-sass": "^4.13.0"
+  },
+  "dependencies": {
+    "gitignore": "^0.6.0"
+  }
+}
