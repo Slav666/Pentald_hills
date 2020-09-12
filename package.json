@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/Slav666/Pentald_hills#readme",
   "devDependencies": {
-    "node-sass": "^4.13.0"
+    "node-sass": "^4.13.1"
   },
   "dependencies": {
     "gitignore": "^0.6.0"
